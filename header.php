@@ -7,7 +7,7 @@
 								<li><i class="fa fa-phone"></i> +250 788 304 817 or +250 788 675 276</li>
 							</ul>
 						</div>
-						<div class="col-md-6">
+						<!--<div class="col-md-6">
 						<div id="sb-search" class="sb-search">
 							<form>
 								<input class="sb-search-input" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
@@ -17,7 +17,7 @@
 						</div>
 
 
-						</div>
+						</div>-->
 					</div>
 				</div>
 			</div>	
@@ -48,16 +48,14 @@
 										<li><a href="acco.php">Accomodation facilities</a></li>
 									</ul>
 								</li>
-								<li><a href="portfolio.html">Administration board</a></li>
-								<li class="dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Blog <i class="fa fa-angle-down"></i></a>
+								<li><a href="administration.php">Administration board</a></li>
+								<li class="dropdown"><a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">About us <i class="fa fa-angle-down"></i></a>
 									<ul class="dropdown-menu">
-										<li><a href="#">Page</a></li>
-										<li><a href="#">Page</a></li>
-										<li><a href="#">Page</a></li>
-										<li><a href="#">Page</a></li>
+										<li><a href="more.php">More about APABENA</a></li>
+										<li><a href="contact.php">Contact Us</a></li>
 									</ul>
 								</li>
-								<li><a href="contact.php">Contact</a></li>
+								<li><a href="support.php">Support</a></li>
 							</ul>
 						</div>
 					</div>

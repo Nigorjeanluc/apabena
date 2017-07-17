@@ -10,7 +10,7 @@
 					 Someplace on Earth </address>
 					<p>
 						<i class="fa fa-phone"></i> +250 788 304 817 or +250 788 675 276 <br>
-						<i class="fa fa-envelope-o"></i> apabena2020@htmail.com
+						<i class="fa fa-envelope-o"></i> apabena2020@hotmail.fr
 					</p>
 				</div>
 			</div>
@@ -18,11 +18,11 @@
 				<div class="widget">
 					<h4>Information</h4>
 					<ul class="link-list">
-						<li><a href="#">Press release</a></li>
-						<li><a href="#">Terms and conditions</a></li>
-						<li><a href="#">Privacy policy</a></li>
-						<li><a href="#">Career center</a></li>
-						<li><a href="#">Contact us</a></li>
+						<li><a href="support.php">Social rehabilitation</a></li>
+						<li><a href="support.php">Gender promotion</a></li>
+						<li><a href="support.php">Child rights protection</a></li>
+						<li><a href="support.php">Education</a></li>
+						<li><a href="contact.php">Contact us</a></li>
 					</ul>
 				</div>
 				
@@ -31,11 +31,11 @@
 				<div class="widget">
 					<h4>Pages</h4>
 					<ul class="link-list">
-						<li><a href="#">Press release</a></li>
-						<li><a href="#">Terms and conditions</a></li>
-						<li><a href="#">Privacy policy</a></li>
-						<li><a href="#">Career center</a></li>
-						<li><a href="#">Contact us</a></li>
+						<li><a href="administration.php">Administration</a></li>
+						<li><a href="bak.php">Bakery</a></li>
+						<li><a href="carp.php">Carpentry</a></li>
+						<li><a href="acco.php">Accomodation facilities</a></li>
+						<li><a href="support.php">Support</a></li>
 					</ul>
 				</div>
 			</div>
@@ -58,10 +58,10 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<div class="copyright">
-						<p>&copy; APABENA - All Right Reserved</p>
-                        <div class="credits">
+						<p>&copy; APABENA - All Right Reserved | <a href="dashboard/">admin</a></p>
+                        <!--<div class="credits">
                             Designed by <a href="https://www.facebook.com/spartacus.amphoteric" target="_blank" rel="nofollow">Eng. Igor Jean-Luc NDIRAMIYE</a>
-                        </div>
+                        </div>-->
 					</div>
 				</div>
 				<div class="col-lg-6">

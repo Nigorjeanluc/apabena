@@ -38,26 +38,41 @@
         <div id="main-slider" class="main-slider flexslider">
             <ul class="slides">
               <li>
-                <img src="img/slides/flexslider/4.jpg" alt="" />
+                <img style="height:500px;width:100%" src="img/home/1.jpg" alt="" />
                 <div class="flex-caption">
-                    <h3>Today's meeting term</h3> 
-					<p>Short story of today's meeting and what have been achieved</p> 
+                    <h3>APABENA Headquarter</h3> 
+					<p>APABENA is located in Kigali City, Kacyiru sector</p> 
 					<a href="#" class="btn btn-theme">Learn More</a>
                 </div>
               </li>
               <li>
-                <img src="img/slides/flexslider/4.jpg" alt="" />
+                <img style="height:500px;width:100%"  src="img/home/2.jpg" alt="" />
                 <div class="flex-caption">
-                    <h3>Evaluation</h3> 
-					<p>Evaluation of the work done by our young entrepreneurs since the year 2009.</p> 
-					<a href="#" class="btn btn-theme">Learn More</a>
+                    <h3>Committee</h3> 
+					<p style="">The Executive Committee is composed of a Legal representative; Vice-legal representative; Advisor, Secretary and Treasurer.</p> 
+					<a href="administration.php" class="btn btn-theme">Learn More</a>
                 </div>
               </li>
               <li>
-                <img src="img/slides/flexslider/4.jpg" alt="" />
+                <img style="height:500px;width:100%" src="img/home/3.jpg" alt="" />
                 <div class="flex-caption">
-                    <h3>New accomodation facilities</h3> 
-					<p>New menu have been introduced, we expect more customer to come and enjoy our services.</p> 
+                    <h3>We offer different services, like Wedding services such as Gardens. </h3> 
+					<!--<p>New menu have been introduced, we expect more customer to come and enjoy our services.</p>-->
+					<a href="#" class="btn btn-theme">Learn More</a>
+                </div>
+              </li>
+			  <li>
+                <img style="height:500px;width:100%" src="img/home/4.jpg" alt="" />
+                <div class="flex-caption">
+                    <h3>Education Promotion</h3> 
+					<p>We encourage education in a number of ways like support in school equipments.</p> 
+					<a href="#" class="btn btn-theme">Learn More</a>
+                </div>
+              </li>
+			  <li>
+                <img style="height:500px;width:100%" src="img/home/5.jpg" alt="" />
+                <div class="flex-caption">
+                    <h3>We also promote Gender in Education</h3>
 					<a href="#" class="btn btn-theme">Learn More</a>
                 </div>
               </li>
@@ -88,7 +103,7 @@
 										To rehabilitate those orphans and vulnerable children, generous parents with heart full of love came together with ideas of providing moral and assistance to build hope and strength 
 										among those children victims of 1994 Genocide against Tutsi.
 									</p>
-                                    <p align="right" style="padding:10px"><a href="about.php" class="btn btn-theme btn-lg">More About Us <i class="fa fa-angle-right"></i></a></p>
+                                    <p align="right" style="padding:10px"><a href="more.php" class="btn btn-theme btn-lg">More About Us <i class="fa fa-angle-right"></i></a></p>
 								</div>
 							</div>
 		</div>
@@ -115,7 +130,7 @@
 					<div class="col-sm-5 col-md-5">
 					<h4>Testimonials</h4>
 						<div class="testimonialslide clearfix flexslider">
-							<ul class="slides">
+							<ul style="text-align:justify" class="slides">
 								<li><blockquote>
 								APABENA is committed to strengthen its collaboration and partnership with different partners with generosity and 
 								heart full of love to support and accompany vulnerable children and families to prevent new cases of non-accompanied children in Rwanda.
